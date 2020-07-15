@@ -1,1 +1,1 @@
-# Markov-Language-Model
+# Markov Language Model
